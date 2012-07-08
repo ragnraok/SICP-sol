@@ -9,4 +9,4 @@ My SICP exercise solution
 
 2012/6/30: finish all 1.2 exercises
 
-2012/7/6: finish chapter 1 exercise
+2012/7/6: finish chapter 1 exercises
